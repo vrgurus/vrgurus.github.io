@@ -3,9 +3,9 @@
 <table>
   <colgroup>
     <col />
-    <col style="background-color: yellow" />
+    <col/>
   </colgroup>
-  <tr>
+  <tr  style="background-color: yellow">
     <th>Data 1</th>
     <th>Data 2</th>
   </tr>
