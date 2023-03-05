@@ -14,6 +14,5 @@
     <td>Jazz</td>
   </tr>
 </table>
-
 </body>
 </html>
