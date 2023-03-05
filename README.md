@@ -1,6 +1,4 @@
-# vrgurus.github.io
 <html>
-
 <body>
 <table>
   <colgroup>
